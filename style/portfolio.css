@@ -174,5 +174,20 @@ footer {
   display: flex;
   background: #FFF8F3;
   padding: 130px 200px;
-
+gap: 100px;
+}
+.Footer-column{
+  width: 50%;
+}
+.social-link a{
+  margin-left: 25px;
+}
+.contact input[ type="text"],input[type="email"],textarea{
+  display: block;
+  margin-bottom: 25px;
+  padding: 18px 35px;
+  color: #757575;
+background-color: #fff;
+border: 0px;
+width: 100%;
 }
